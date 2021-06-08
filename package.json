@@ -1,0 +1,24 @@
+{
+  "name": "knex-serverless-postgres",
+  "version": "1.0.0",
+  "description": "A knex dialect of serverless-postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rswlkr/knex-serverless-postgres.git"
+  },
+  "keywords": [
+    "knex",
+    "postgres",
+    "serverless"
+  ],
+  "author": "Ross Walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rswlkr/knex-serverless-postgres/issues"
+  },
+  "homepage": "https://github.com/rswlkr/knex-serverless-postgres#readme"
+}
